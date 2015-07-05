@@ -1,0 +1,37 @@
+STYLE.NAME = amp2000
+
+STYLE.CSS = hui.css
+
+STYLE.BIGDOT = ampbigdot.gif
+STYLE.MIDDOT = ampmiddot.gif
+STYLE.AMPMINILOGO = hui-amplogo.gif
+STYLE.SOLARIXMINILOGO = hui-solarixlogo.gif
+
+STYLE.MENUBACK = menubackgray.gif
+STYLE.MENUBACKSHADOW = menubackwhite.gif
+
+STYLE.ROOTACCESS = root.gif
+STYLE.SITEACCESS = site.gif
+
+STYLE.TITLEBARTITLE = 
+STYLE.TITLEBAR = hui-titlebarshadow.gif
+
+STYLE.WINDOWNEW = hui-windownew.gif
+STYLE.WINDOWCLOSE = hui-windowclose.gif
+
+STYLE.ARROWDOWN = arrowdown.gif
+STYLE.ARROWDOWNSHADOW = arrowdowngray.gif
+STYLE.ARROWRIGHT = arrowright.gif
+STYLE.ARROWRIGHTSHADOW = arrowrightgray.gif
+
+STYLE.BLUEBALL = blueball.gif
+STYLE.CRYSTALBALL = crystalball.gif
+STYLE.GOLDBALL = goldball.gif
+STYLE.GREENBALL = greenball.gif
+STYLE.LUCIDBALL = lucidball.gif
+STYLE.ORANGEBALL = orangeball.gif
+STYLE.PINKBALL = pinkball.gif
+STYLE.PURPLEBALL = purpleball.gif
+STYLE.REDBALL = redball.gif
+STYLE.WHITEBALL = whiteball.gif
+STYLE.YELLOWBALL = yellowball.gif

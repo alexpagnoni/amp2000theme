@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<structure>
+
+    <catalog	name="amp_misc_amp2000theme"	file="amp_misc_amp2000theme.catalog"/>
+    <huitheme	name="amp2000"	file="amp2000.huitheme"	catalog="amp_misc_amp2000theme"/>
+    <huicolorsset	name="amp2000"	file="amp2000.huicolorsset"	catalog="amp_misc_amp2000theme"/>
+    <huistyle	name="amp2000"	file="amp2000.huistyle"	catalog="amp_misc_amp2000theme"/>
+    <huiiconsset	name="amp2000"	file="amp2000.huiiconsset"	catalog="amp_misc_amp2000theme"/>
+
+</structure>
